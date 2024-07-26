@@ -3,7 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
 
 # Minimal reproduction for issue
-This repository is created in order to provide a minimal reproduction for the following error that appeared for Angular library projects after upgrading to Angular v18.1 when building with `ng build`:
+This repository is created in order to provide a minimal reproduction for [an issue regarding Angular build](https://github.com/angular/angular/issues/57135)
+
+The following error appears when building (`ng build`) Angular library projects after upgrading to Angular v18.1:
 
 ```
 ------------------------------------------------------------------------------
